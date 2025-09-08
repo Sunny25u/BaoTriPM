@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "facede", "facede\facede.csproj", "{B318B854-4450-448B-BE5D-44ADEDABE42B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "real_facade", "real_facade\real_facade.csproj", "{B63E766B-4D85-4DF1-B908-8E5C2A03E245}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B318B854-4450-448B-BE5D-44ADEDABE42B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B318B854-4450-448B-BE5D-44ADEDABE42B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B318B854-4450-448B-BE5D-44ADEDABE42B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B318B854-4450-448B-BE5D-44ADEDABE42B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B63E766B-4D85-4DF1-B908-8E5C2A03E245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B63E766B-4D85-4DF1-B908-8E5C2A03E245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B63E766B-4D85-4DF1-B908-8E5C2A03E245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B63E766B-4D85-4DF1-B908-8E5C2A03E245}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F5EE142-CB9C-4A6C-8CE1-5FC734075D25}
+	EndGlobalSection
+EndGlobal
